@@ -1,0 +1,14 @@
+
+body {
+  background-color: #f4f4f4;
+  font-family: Arial;
+  text-align: center;
+}
+h3 {
+  color: darkblue;
+}
+img {
+  width: 200px;
+  margin: 10px;
+  border-radius: 8px;
+}
