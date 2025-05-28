@@ -1,20 +1,20 @@
 body {
-  background-color: #yellow;
+  background-color: pink;
   font-family: Arial, sans-serif;
   text-align: center;
   padding: 40px;
 }
 
 h3 {
-  color: pink;
+  color: yellow;
   font-size: 28px;
   margin-bottom: 20px;
   text-transform: uppercase;
 }
 
 img {
-  width: 375px;
-  height: 300px;
+  width: 250px;
+  height: 200px;
   object-fit: cover;
   margin: 10px;
   border-radius: 10px;
